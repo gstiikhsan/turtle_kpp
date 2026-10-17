@@ -81,7 +81,7 @@ ros2 run turtlesim turtlesim_node
 ```bash
 cd ~/turtle_kpp
 source install/setup.bash
-ros2 run ampera_draw ampera_draw
+ros2 run turtle_kpp ampera_draw
 ```
 
 Saat gambar selesai, terminal 2 mencetak `Done boskyuh`. Untuk mengulang dari awal, hapus kanvas lalu jalankan ulang program:
