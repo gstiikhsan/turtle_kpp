@@ -66,7 +66,7 @@ cd turtle_kpp
 
 # 2. Build
 source /opt/ros/$ROS_DISTRO/setup.bash
-colcon build --packages-select ampera_draw
+colcon build --packages-select turtle_kpp
 
 # 3. Jalankan (butuh dua terminal)
 ```
