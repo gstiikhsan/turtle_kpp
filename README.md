@@ -1,6 +1,6 @@
 # turtle_kpp: Menggambar Logo di Turtlesim (ROS 2 + C++)
 
-Program ROS 2 berbahasa C++ yang membuat penyu di **turtlesim** menggambar logo bangku secara otomatis. Penyu bergerak ke titik awal garis dengan pena mati, menyalakan pena, lalu bergerak ke titik akhir garis. Proses ini diulang untuk 20 garis sampai logo selesai.
+Program ROS 2 berbahasa C++ yang membuat penyu di **turtlesim** menggambar logo Jembatan Ampera secara otomatis. Penyu bergerak ke titik awal garis dengan pena mati, menyalakan pena, lalu bergerak ke titik akhir garis. Proses ini diulang untuk 20 garis sampai logo selesai.
 
 > **Nama:** Gusti Ikhsan Nafyan Yuniza
 > **NRP:** 2040261049
