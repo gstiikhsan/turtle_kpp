@@ -139,7 +139,7 @@ flowchart TD
 
 ## Penjelasan kode
 
-File: [`src/ampera_draw/src/ampera_draw.cpp`](src/ampera_draw/src/ampera_draw.cpp)
+File: [`src/ampera_draw/src/ampera_draw.cpp`](src/turtle_kpp/src/ampera_draw.cpp)
 
 ### 1. Konstruktor
 
