@@ -250,10 +250,10 @@ Hasilnya logo berukuran sekitar 8,9 x 9,9 satuan dan berada di kuadran 1 (titik 
 
 | Bagian | Jumlah garis | Contoh titik (x1, y1) ke (x2, y2) |
 |---|---|---|
-| Dudukan | 4 | (2.40, 9.70) ke (8.60, 9.70) |
+| Atas | 4 | (2.40, 9.70) ke (8.60, 9.70) |
 | Kaki | 4 | (3.26, 9.70) ke (2.60, 1.90) |
-| Anak tangga | 8 | (3.98, 9.44) ke (7.02, 9.44) |
-| Kotak kecil | 4 | (4.76, 3.68) ke (6.24, 3.68) |
+| Tengah | 8 | (3.98, 9.44) ke (7.02, 9.44) |
+| Bawah | 4 | (4.76, 3.68) ke (6.24, 3.68) |
 
 ## Parameter yang bisa diubah
 
