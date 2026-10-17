@@ -36,16 +36,15 @@ Link video: https://drive.google.com/drive/folders/1O3QP8WxGSiNU3NBxxJPQc_qndiOM
 ## Struktur repo
 
 ```
-turtle_kpp/                      <- workspace ROS 2 (repo ini)
+turtle_kpp/                  <- repo sekaligus paket ROS 2
+├── CMakeLists.txt
+├── package.xml
 ├── README.md
+├── LICENSE
 ├── .gitignore
+├── docs/
 └── src/
-    └── ampera_draw/             <- paket ROS 2
-        ├── CMakeLists.txt
-        ├── package.xml
-        └── src/
-            └── ampera_draw.cpp  <- source program
-            └── pose_listener.cpp
+    └── ampera_draw.cpp
 ```
 
 ## Prasyarat
